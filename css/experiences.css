@@ -1,0 +1,50 @@
+body{
+    background-color: #FEFBF3;
+}
+h1{ 
+    text-align: center; 
+    font-family: cursive;
+}
+h2{ 
+    text-align: center; 
+    font-family: cursive; 
+    font-weight:normal;
+}
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight:normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #F8F0DF;
+}
+.table-content{
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: #F8F0DF;
+}
+.table-menu td:hover{
+    background-color: #b8a67d;
+}
+.ul-circle{
+    list-style-type:circle;
+    background-color: #F8F0DF;
+} 
+.ul-disc{
+    list-style-type:disc;
+    background-color: #F8F0DF;
+}
+.ul-square{
+    list-style-type:square;
+    background-color: #F8F0DF;
+}
+.ol-order{
+    background-color: #F8F0DF;
+}
